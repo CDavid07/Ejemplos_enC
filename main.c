@@ -1,18 +1,12 @@
 /*
-nombre del programa
-Autor
-Modificado por
-que hace el programa
-necesita un circuito
-colocar una imagen en el repositorio_liga
-terminales que se utilizan, el modo
-ejemplos: gpio 5_salida*/
+Programa Main
+David Arturo Castellanos Guzman
+Programa basico que imprime un hola en la terminal
+*/
 
 /*Bibliotecas*/
 #include <stdio.h>
-#include<stdlib.h>
 
-/*declaracion de las variables con el tipo correspondiente*/
 
 /*estructura main*/
 
